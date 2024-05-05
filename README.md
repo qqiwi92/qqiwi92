@@ -4,7 +4,6 @@
 
 
 
-
 <p align="left">My name is Dmitry Levkin and I'm a Frontend Developer, from Saint Petersburg</p>
 
 ###
@@ -13,19 +12,21 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning Rust<br>🎯 Goals: to become a Fullstack Developer<br>🎲 Fun fact: Ich spreche ein bisschen Deutsch</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Rust<br>🎯 Goals: to become a Fullstack Developer<br>🎲 Fun fact: Ich spreche ein bisschen Deutsch</p>
 
 ###
 
-<p align="left">Mostly practice by creating sites for local businesses. Here are a few works that I am proud of: <br>https://fvolchek.vercel.app, https://dupri.ru, https://store.dupri.ru</p>
+<p align="left">At this point I search local businesses that need a website and making my own website. Here are a few works that I am proud of: <br>https://fvolchek.vercel.app, https://dupri.ru, https://store.dupri.ru</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I love using</h2>
 
 ###
 
 <div align="left">
+  <img src="https://github.com/qqiwi92/qqiwi92/assets/168963586/dd90abae-665a-4f5a-9281-ee098dac669f" height="40" alt="javascript logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
