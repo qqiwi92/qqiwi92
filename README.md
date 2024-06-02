@@ -4,24 +4,17 @@
 
 
 <p align="left">My name is Dmitry Levkin and I'm a Frontend Developer, from Saint Petersburg. Second account of <a href="https://github.com/qwe515678">@qwe515678</a></p>
-
-###
+<p>see my <a href="https://webseite.vercel.app">website</a> to learn more</p>
 
 <h2 align="left">About me</h2>
 
-###
 
 <p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Rust<br>🎯 Goals: to become a Fullstack Developer<br>🎲 Fun fact: Ich spreche ein bisschen Deutsch</p>
 
-###
 
 <p align="left">At this point I search local businesses that need a website and making my own website. Here are a few works that I am proud of: <br>https://fvolchek.vercel.app, https://dupri.ru, https://store.dupri.ru</p>
 
-###
-
 <h2 align="left">I love using</h2>
-
-###
 
 <div align="left">
   <img src="https://github.com/qqiwi92/qqiwi92/assets/168963586/e47e2747-e9d3-4c62-a13b-f7d4c56de44d" height="40" alt="arc logo"  />
