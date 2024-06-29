@@ -54,6 +54,6 @@
 ## Hey, you looked at my contribution graph and were surprised that I am not qualified?
 About that, for some reason my github account was banned so you can see history photo here
 
+<img src="https://github.com/qqiwi92/qqiwi92/assets/168963586/a55b245a-36ea-4798-b38a-58ecf6682b5c" alt="" style='width:100%;padding:2px;border:1px solid red'/>
+<img src="https://github.com/qqiwi92/qqiwi92/assets/168963586/5e4b6528-ccd0-4e70-87e1-74b2a168be1e" alt="" style='width:100%;padding:2px;border:1px solid red'/>
 
-![image (5)](https://github.com/qqiwi92/qqiwi92/assets/168963586/a55b245a-36ea-4798-b38a-58ecf6682b5c)
-![image (6)](https://github.com/qqiwi92/qqiwi92/assets/168963586/5e4b6528-ccd0-4e70-87e1-74b2a168be1e)
