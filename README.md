@@ -1,4 +1,4 @@
-![Rectangle 40](https://github.com/qwe515678/qwe515678/assets/126272290/51e01fcf-4b1c-42e5-b48b-71fe3691f2e7)
+<img src="https://github.com/qwe515678/qwe515678/assets/126272290/51e01fcf-4b1c-42e5-b48b-71fe3691f2e7" alt="" style='width:100%'/>
 
 <h1 align="left">Hi there</h1>
 
@@ -51,5 +51,9 @@
   <img width="12" />
 </div>
 
-### Hey, you looked at my contribution graph and were surprised that I am not qualified?
-About that, for some reason my github account was banned so you can see history photo here 
+## Hey, you looked at my contribution graph and were surprised that I am not qualified?
+About that, for some reason my github account was banned so you can see history photo here
+
+
+![image (5)](https://github.com/qqiwi92/qqiwi92/assets/168963586/a55b245a-36ea-4798-b38a-58ecf6682b5c)
+![image (6)](https://github.com/qqiwi92/qqiwi92/assets/168963586/5e4b6528-ccd0-4e70-87e1-74b2a168be1e)
