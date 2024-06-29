@@ -9,7 +9,7 @@
 <h2 align="left">About me</h2>
 
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Rust<br>🎯 Goals: to become a Fullstack Developer<br>🎲 Fun fact: Ich spreche ein bisschen Deutsch</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning glsl<br>🎯 Goals: to learn Data Science<br>🎲 Fun fact: Ich habe B1 Deutsch</p>
 
 
 <p align="left">At this point I search local businesses that need a website and making my own website. Here are a few works that I am proud of: <br>https://fvolchek.vercel.app, https://translate.dimalevkin.ru, https://store.dupri.ru</p>
