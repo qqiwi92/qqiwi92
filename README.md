@@ -12,7 +12,7 @@
 <p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Rust<br>🎯 Goals: to become a Fullstack Developer<br>🎲 Fun fact: Ich spreche ein bisschen Deutsch</p>
 
 
-<p align="left">At this point I search local businesses that need a website and making my own website. Here are a few works that I am proud of: <br>https://fvolchek.vercel.app, https://dupri.ru, https://store.dupri.ru</p>
+<p align="left">At this point I search local businesses that need a website and making my own website. Here are a few works that I am proud of: <br>https://fvolchek.vercel.app, https://translate.dimalevkin.ru, https://store.dupri.ru</p>
 
 <h2 align="left">I love using</h2>
 
@@ -51,4 +51,5 @@
   <img width="12" />
 </div>
 
-###
+### Hey, you looked at my contribution graph and were surprised that I am not qualified?
+About that, for some reason my github account was banned so you can see history photo here 
