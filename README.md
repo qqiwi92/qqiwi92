@@ -3,13 +3,13 @@
 <h1 align="left">Hi there</h1>
 
 
-<p align="left">My name is Dmitry Levkin and I'm a Frontend Developer, from Saint Petersburg. Second account of <a href="https://github.com/qwe515678">@qwe515678</a></p>
+<p align="left">My name is Dmitry Levkin and I'm a Frontend Developer. Second account of <a href="https://github.com/qwe515678">@qwe515678</a></p>
 <p>see my <a href="https://webseite.vercel.app">website</a> to learn more</p>
 
 <h2 align="left">About me</h2>
 
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning glsl<br>🎯 Goals: to learn Data Science<br>🎲 Fun fact: Ich habe B1 Deutsch</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning glsl<br>🎯 Goals: to learn Data Science<br>🎲 Fun fact: Ich habe B2 Deutsch</p>
 
 
 <p align="left">At this point I search local businesses that need a website and making my own website. Here are a few works that I am proud of: <br>https://fvolchek.vercel.app, https://translate.dimalevkin.ru, https://store.dupri.ru</p>
