@@ -4,7 +4,7 @@
 
 
 <p align="left">My name is Dmitry Levkin and I'm a Frontend Developer. Second account of <a href="https://github.com/qwe515678">@qwe515678</a></p>
-<p>see my <a href="https://webseite.vercel.app">website</a> to learn more</p>
+<p>see my <a href="https://levkin.dev">website</a> to learn more</p>
 
 <h2 align="left">About me</h2>
 
