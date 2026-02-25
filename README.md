@@ -5,5 +5,4 @@
 
 ---
 
-
-<p align="left">- Started coding during the 2020 pandemic<br>- I'm currently learning glsl<br>- Languages: C/C++, TS, PY, Deutsch (B2), English(C1)
+Languages: C/C++, TS, PY, Deutsch (B2), English(C1)
